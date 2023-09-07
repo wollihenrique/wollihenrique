@@ -3,8 +3,8 @@
 Meu nome é Wallace Henrique, tenho 15 anos, sou estudante e gosto de mexer com criação de sites. Estou no 2º Grau da minha escola
 
 ### Estou interessado em 👀:
--Trabalhar em alguma das áreas de TI(ainda não sei qual).
--Conseguir estágio em alguma empresa para obter experiência.
+- Trabalhar em alguma das áreas de TI(ainda não sei qual).
+- Conseguir estágio em alguma empresa para obter experiência.
 
 ### Atualmente estou 🌱:
 
