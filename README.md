@@ -14,8 +14,8 @@ Meu nome é Wallace Henrique, tenho 15 anos, sou estudante e gosto de mexer com 
 - Estou aprendendo a desenvolver sistemas e criar aplicativos mobile.
 
 ### Você pode entrar em contato comigo através de:
-Email: wallacekada@gmail.com
-Instagram: __gales_07x
+- Email: wallacekada@gmail.com
+- Instagram: __gales_07x
 
 <!---
 wollihenrique/wollihenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
