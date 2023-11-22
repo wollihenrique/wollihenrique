@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 👋
 
-Meu nome é Wallace Henrique, tenho 15 anos, sou estudante e gosto de mexer com criação de sites. Estou no 2º Grau da minha escola
+Meu nome é Wallace Henrique, tenho 16 anos, sou estudante e gosto de mexer com criação de sites. Estou no 2º Grau da minha escola
 
 ### Estou interessado em 👀:
 - Trabalhar em alguma das áreas de TI(ainda não sei qual).
