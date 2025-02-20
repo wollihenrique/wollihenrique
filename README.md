@@ -1,6 +1,30 @@
-# 💫 About Me:
-### Hello World! I'm Wallace Henrique, welcome everyone to my profile😁<br>I have 16 years old I'm a beginner developer in T.I. Area.<br>Actually I'm studiyng in Etec - Taboão da Serra in a course of Systems development, I'm doing courses on Udemy and I'm in the 2nd year of high school, I don't have experience profissional but I'm doing volunter work for a company of cleaning products (For more informations, see my repositories).<br>I'm looking for an internship in the area, I want help to become more professional.<br><br>
+# **Relatório de Progresso Profissional – Wallace Henrique**  
 
+## 📌 **Perfil**  
+Atualmente, estou em busca de um estágio na área de programação, com foco em desenvolvimento back-end e banco de dados. Tenho experiência prática com **PHP, MySQL, HTML, CSS e JavaScript**, além de conhecimento em **PDO, testes automatizados (PHPUnit) e versionamento com Git/GitHub**.  
+
+## 🎯 **Objetivo Profissional**  
+Meu objetivo é ingressar no mercado de tecnologia, aprimorando minhas habilidades em **desenvolvimento de sistemas web** e **bancos de dados**, com o intuito de contribuir para projetos desafiadores e evoluir como profissional.  
+
+## 🚀 **Experiência e Projetos**  
+- **php-pdo-projeto-inicial**: Projeto focado em manipulação de dados com PHP e PDO.  
+- **Sistema de Login**: Desenvolvimento de um sistema seguro de autenticação com PHP e MySQL.  
+- **Site com Carrossel**: Implementação de um site interativo com navegação dinâmica.  
+
+## 🛠️ **Habilidades Técnicas**  
+- PHP | MySQL | HTML | CSS | JavaScript  
+- PDO | Testes Automatizados (PHPUnit)  
+- Git/GitHub | Integração com APIs  
+- Segurança da Informação e boas práticas de desenvolvimento  
+
+## 📖 **Estudos e Formação**  
+- Curso Técnico em **Análise e Desenvolvimento de Sistemas**  
+- Cursos na **Alura** com foco em back-end e front-end  
+
+## 💡 **Próximos Passos**  
+- Continuar aprimorando meus conhecimentos em PHP e Banco de Dados  
+- Explorar frameworks como Laravel  
+- Buscar oportunidades para aplicar minhas habilidades no mercado  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__gales_07x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Wallace Batista) 
