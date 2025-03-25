@@ -9,7 +9,8 @@ Meu objetivo é ingressar no mercado de tecnologia, aprimorando minhas habilidad
 ## 🚀 **Experiência e Projetos**  
 - **php-pdo-projeto-inicial**: Projeto focado em manipulação de dados com PHP e PDO.  
 - **Sistema de Login**: Desenvolvimento de um sistema seguro de autenticação com PHP e MySQL.  
-- **Site com Carrossel**: Implementação de um site interativo com navegação dinâmica.  
+- **Site com Carrossel**: Implementação de um site interativo com navegação dinâmica.
+- **Professor de informática básica**: Por um período estou sendo professor de informática básica na ONG Sementes do Amanhã
 
 ## 🛠️ **Habilidades Técnicas**  
 - PHP | MySQL | HTML | CSS | JavaScript  
@@ -19,7 +20,8 @@ Meu objetivo é ingressar no mercado de tecnologia, aprimorando minhas habilidad
 
 ## 📖 **Estudos e Formação**  
 - Curso Técnico em **Análise e Desenvolvimento de Sistemas**  
-- Cursos na **Alura** com foco em back-end e front-end  
+- Cursos na **Alura** com foco em back-end e front-end
+- Cursando Engenharia de Software na Cruzeiro do Sul Virtual
 
 ## 💡 **Próximos Passos**  
 - Continuar aprimorando meus conhecimentos em PHP e Banco de Dados  
