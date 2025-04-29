@@ -25,7 +25,7 @@ Meu objetivo é ingressar no mercado de tecnologia, aprimorando minhas habilidad
 
 ## 💡 **Próximos Passos**  
 - Continuar aprimorando meus conhecimentos em PHP e Banco de Dados  
-- Explorar frameworks como Laravel  
+- Explorar frameworks como Laravel ou Symfony
 - Buscar oportunidades para aplicar minhas habilidades no mercado  
 
 ## 🌐 Socials:
